@@ -1,0 +1,8 @@
+$(asctime)s - INFO - 1.0 added to 2.0 is 3.0
+$(asctime)s - ERROR - Cannot divide by zero!
+$(asctime)s - INFO - 2.0 multiplied by 3.0 is 6.0
+$(asctime)s - INFO - 2.0 added to 4.0 is 6.0
+2023-11-06 11:03:11,098 - ERROR - Invalid input. Please enter a number.
+2023-11-06 11:03:14,108 - INFO - 1.0 added to 8.0 is 9.0
+2023-11-06 11:03:14,109 - INFO - Your calculation result: 9.0
+2023-11-06 11:03:16,448 - INFO - Exited the program.
